@@ -1,0 +1,47 @@
+#boxes {
+	text-align: center;
+	align-content: center;
+	content: "";
+	display: table;
+	clear: both;
+}
+
+#profile {
+	text-align: center;
+}
+
+.wrapper {
+	width: fit-content;
+	margin: 0 auto;
+}
+
+.profile {
+	float:left;
+	width: 300px;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+.profile:first-child {
+	margin-right: 50px;
+}
+
+.clearfix {
+	clear: both;
+}
+
+header {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+}
+
+body {
+	text-align: center;
+	align-content: center;
+}
+
+footer {
+	text-align: center;
+	clear: both;
+}
